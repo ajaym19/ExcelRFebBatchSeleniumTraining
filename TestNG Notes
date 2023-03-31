@@ -1,0 +1,21 @@
+TestNG Notes
+
+Testing tool
+Test Next Generation
+to write test cases
+
+Annotations
+
+BeforeSuite
+BeforeTest
+BeforeClass
+BeforeMethod: before every test case
+
+Test
+
+AfterMethod: after every test case
+AfterClass
+AfterTest
+AfterSuite
+
+Suite > Test > Class > Methods
